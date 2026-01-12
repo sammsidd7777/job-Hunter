@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Epilogue:ital,wght@0,100..900;1,100..900&family=Red+Hat+Display:ital,wght@0,300..900;1,300..900&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.hr-link {
+  @apply flex items-center gap-3 p-2 text-gray-700 rounded-lg 
+         hover:bg-blue-50 hover:text-blue-600 transition;
+}
+
+
+
