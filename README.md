@@ -5,7 +5,7 @@
 
 <br/>
 
-[![Live Demo](https://img.shields.io/badge/-Live%20Demo-4640DE?style=for-the-badge&logo=vercel&logoColor=white)](https://job-Hunter-five.vercel.app/)
+
 
 
 <br />
@@ -63,40 +63,5 @@ Before starting, make sure you have the following installed:
 - [npm](https://www.npmjs.com/) (Node Package Manager)
 
 ### Steps
-
-1. **Clone the repository:**
-
-    ```bash
-    git clone https://github.com/psparwez/JobHunter.git
-    ```
-
-2. **Navigate to the project folder:**
-
-    ```bash
-    cd JobHunter
-    ```
-
-3. **Install the project dependencies using npm:**
-
-    ```bash
-    npm install
-    ```
-4. **Running the Project :** 
-
-```bash
-npm run dev
-```
-
-5. Open [http://localhost:5173/](http://localhost:5173/) in your browser to view the project.
-
-
-You’re now ready to explore and customize **JobHunter** locally!
-
----
-
-
-### 📜 License
-
-[MIT](https://choosealicense.com/licenses/mit/)
 
 <br/>
